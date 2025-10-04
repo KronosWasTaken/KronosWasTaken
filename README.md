@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/ygAmzS6qTOkzxG0VsB/giphy.gif" alt="Anime GIF" style="width: 100%; max-width: 600px; height: auto; border-radius: 8px; margin: 20px 0;">
+<img src="assets/kronoswastaken.png" alt="KronosWasTaken" style="width: 100%; max-width: 600px; height: auto; border-radius: 8px; margin: 20px 0;">
 
 </div>
 
