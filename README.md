@@ -39,7 +39,7 @@ user@kronoswastaken:~/skills$ cat frontend/README
 ⚛️  React    🎨 Tailwind CSS    🎨 Bootstrap    ✨ Framer Motion    🌐 HTML/CSS    📱 Capacitor
 
 user@kronoswastaken:~/skills$ cat backend/README
-🚀 FastAPI    🌶️  Flask    🐘 PostgreSQL    🗄️  SQLite    ⚡ Supabase    🔧 SQLAlchemy    🔧 Alembic    🔧 GORM
+🚀 FastAPI   🍸 Gin 🌶️  Flask    🐘 PostgreSQL    🗄️  SQLite    ⚡ Supabase    🔧 SQLAlchemy    🔧 Alembic    🔧 GORM
 
 user@kronoswastaken:~/skills$ cat systems_security/README
 🐧 Linux    🐳 Docker    ☁️  Oracle Cloud    🦀 Tauri    🔒 Cisco    🔒 Juniper
