@@ -33,7 +33,7 @@ user@kronoswastaken:~/skills$ tree -L 1
 └── systems_security/
 
 user@kronoswastaken:~/skills$ cat languages/README
-🐍 Python    🐹 Go    🦀 Rust    🟨 JavaScript    🔷 TypeScript    🔷 C#
+🐍 Python    🐹 Go    🦀 Rust    ⚡ Zig    🟨 JavaScript    🔷 TypeScript    🔷 C#
 
 user@kronoswastaken:~/skills$ cat frontend/README
 ⚛️  React    🎨 Tailwind CSS    🎨 Bootstrap    ✨ Framer Motion    🌐 HTML/CSS    📱 Capacitor
