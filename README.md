@@ -36,14 +36,14 @@ user@kronoswastaken:~/skills$ cat languages/README
 🐍 Python    🐹 Go    🦀 Rust    ⚡ Zig    🟨 JavaScript    🔷 TypeScript    🔷 C#
 
 user@kronoswastaken:~/skills$ cat frontend/README
-⚛️  React    🎨 Tailwind CSS    🎨 Bootstrap    ✨ Framer Motion    🌐 HTML/CSS    📱 Capacitor
+🧡 SvelteKit / Svelte 5    ⚛️ React    🐾 Zustand    🎨 Tailwind CSS    🎨 Bootstrap    🧩 Radix UI    ✨ Framer Motion    🌐 HTML/CSS    💻 Electron    📱 Capacitor
 
 user@kronoswastaken:~/skills$ cat backend/README
 🚀 FastAPI   🍸 Gin 🌶️  Flask    🐘 PostgreSQL    🗄️  SQLite    ⚡ Supabase    🔧 SQLAlchemy    🔧 Alembic    🔧 GORM
 
 user@kronoswastaken:~/skills$ cat systems_security/README
-🐧 Linux    🐳 Docker    ☁️  Oracle Cloud    🦀 Tauri    🔒 Cisco    🔒 Juniper
-🛡️  Network Security    🔐 Cryptography    🔐 Argon2    🔐 Fernet    🤖 Selenium
+🐧 Linux    🐳 Docker    ☁️ Oracle Cloud    ▲ Vercel    🦀 Tauri    🔒 Cisco    🔒 Juniper    🔧 Git
+🛡️ Network Security    🔐 Cryptography    🔬 Ethical Hacking    🛡️ Endpoint Security    ☁️ Cloud Security    🔄 DevSecOps    🤖 Selenium
 
 user@kronoswastaken:~/skills$ cd ../personal/
 user@kronoswastaken:~/personal$ tree
